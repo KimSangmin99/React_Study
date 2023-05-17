@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+div {
+  background-color: lightgray;
+}
+
+button {
+  margin: 10px 0 10px 10px;
+}
+
+p {
+  display: inline;
+  margin-left: 10px;
+}
